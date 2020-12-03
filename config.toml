@@ -1,4 +1,4 @@
-baseURL = "https://github.com/TomVollerthun1337/hugo_action"
+baseURL = "https://tomvollerthun1337.github.io/hugo_action/"
 languageCode = "en-us"
 title = "Hugo Action"
 theme = "ananke"
