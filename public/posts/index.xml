@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hugo Action</title>
+    <link>https://github.com/TomVollerthun1337/hugo_action/posts/</link>
+    <description>Recent content in Posts on Hugo Action</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Dec 2020 08:40:43 +0100</lastBuildDate><atom:link href="https://github.com/TomVollerthun1337/hugo_action/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo with github actions</title>
+      <link>https://github.com/TomVollerthun1337/hugo_action/posts/my-first-post/</link>
+      <pubDate>Thu, 03 Dec 2020 08:40:43 +0100</pubDate>
+      
+      <guid>https://github.com/TomVollerthun1337/hugo_action/posts/my-first-post/</guid>
+      <description>Experimenting with github action instead of travis to generate static site content</description>
+    </item>
+    
+  </channel>
+</rss>
